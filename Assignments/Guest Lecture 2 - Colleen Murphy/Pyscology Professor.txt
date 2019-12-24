@@ -1,0 +1,61 @@
+Questions:
+	Professor Colleen Murphy spoke to the class on 12/5 about her work on the Capability Approach.  Please write a 1-page reflection on the following prompts:
+
+	What main takeaways did you leave with and what was something interesting or new that you learned? 
+	How could you apply the concept of understanding context to your project?  How could you narrow your solution focus so that you are targeting a specific context?  What is the specific context that your solution concept will inhabit (i.e. societal norms, built environment, environmental impacts, etc.)?
+
+Framework:
+capbility approach: deveoped in context of economics
+what capability means
+place of gender
+
+effective freedom individuals have of the things they values: to be healthy, recognised, be mobile, employed, educated, part of political community, able to develop relationship with individuals -- things that matter.
+factors affecting the above thing
+
+
+mobility example: bike
+inhaling smoke: cleaner kitchen tools
+
+
+
+articulate framework that she uses for civil engineers. How to translate the impact natural disasters have on roads, .. comm channels with societal impacts. Civil engineers when they model to predict next disasters, they need to predict the assessment what it woulr mean for communities. To do this they are using capability approach.
+
+What capability means?
+Developed by Mark tuson and MArthan
+in context of develop of economics. How well off the comm. are - what paramters would you yousee - see GDP. Just by looking GDP, one can't see just by looking at that because distribution, accessing resources and the life the people are trying to live. Why not search for new measures just by looking at those things? What are those things - lets think of better or worse. Capability is the answer. 
+
+Capability is the effective freedom or genuine opportunity a individuals have of the things they values: to be healthy, recognised, be mobile, employed, educated, part of political community, able to develop relationship with individuals -- things that matter.
+
+Now what is it that shapes that capability? What are the factors that shape each of those above factors?
+
+They said there 2 types that shape capability - what you have? and what you are able to do with what you have?
+
+what you have? skills, knowledge, economic resources, familial support that shapes the course of action one takes
+what you are able to do with what you have? shaped by laws (lot of money but there would be), gender norms (resources but there are certain things women arent supposed to do or men are supposed to do), natural enviornment (like weather - hot then hydration and sunscreen or cold then one cant go outside without having health risks), quality of infrastructure, accessibility of where the road goes, what does the transport go (how connected it is and how frequent it is), religious norms, institutional norms, physical build along with the enviornment you are in
+
+Example: think about mobility in terms of having a bike. Small kids are not knowledgable about the bike even if they have it. If you know how to bike but you have flat ture and you dont have pump to fix it, so another problem. Let all is possible, but you are a girl and girls are not appropriate to use it maybe by country laws or health risks. 
+Another example: car, no money for gas bill or licese, or age
+
+Placing tech and tools in broader context of actions where certain ques arises where you are designing is able to effectively able to expand the freedoms of the target users - in terms of financial, econmoic support, 
+if you have kids and mobile, but 
+It's restrictive freedom that her kids will be using her phone for playing
+
+giving quality to people - accessing tech like internet - some places have bettwer broadband
+projects 
+
+inhaling smoke is 4th leading cause of death, especially for women in Africa. It is recognised to cleaner tech for cooking purposes that doesn;t expose women and children to risks. The quality of smoke is harmful. You add a stove which end up being decorations. Why? They knew how to use it. Different problems - they relied on certain kind resource which was very demanding for woem in terms of access. One may require to walk a lot for certain resoucres. One didn;t think about the benefit of the smoke - like keeping away mosquitoes.
+Not paying to attention that the very smoke that was solving the problem of mosquitoes was hampering health
+Not paying attention to food
+Not thinking stove serving a social - stove is where social gathering occurs. people come togehter when people cook. No taking this into consideration
+
+You don;t know what life they are living.
+Thinking not only nourishment function, but also social function.
+The wya you cook vs the target audience's way of cooking could be very different.
+
+If stores are decorative, then you don;t replace it. But you need customers to come back so stoves should be used for more than decorative.
+
+The place of gender in that framework
+
+How do you measure of well being?
+UN publish this: they look at achievement of individuals, living a long and healthy life (life expectancy), educational attainment 
+Profit
